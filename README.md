@@ -363,7 +363,7 @@ Le modèle clinique peut servir d'**outil d'aide à la décision** pour :
 
 ## 13. Licence et Usage
 
-**Projet Académique** - Master of Excellence en Intelligence Artificielle
+**Projet Académique** - Master d'Excellence en Intelligence Artificielle
 
 ⚠️ **Avertissement Médical :** Ce système est développé à des fins éducatives et de recherche uniquement. Il ne remplace en aucun cas un diagnostic médical professionnel. Toute décision médicale doit être prise par un professionnel de santé qualifié.
 
